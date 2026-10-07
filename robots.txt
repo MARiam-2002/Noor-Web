@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noor-daily-companion.kimberlysmithv894339.chatgpt.site/sitemap.xml
