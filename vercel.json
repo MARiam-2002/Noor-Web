@@ -1,5 +1,19 @@
 {
   "framework": null,
   "buildCommand": null,
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/privacy",
+      "destination": "https://noorapp-backend-production.up.railway.app/privacy"
+    },
+    {
+      "source": "/terms",
+      "destination": "https://noorapp-backend-production.up.railway.app/terms"
+    },
+    {
+      "source": "/delete-account",
+      "destination": "https://noorapp-backend-production.up.railway.app/delete-account"
+    }
+  ]
 }
